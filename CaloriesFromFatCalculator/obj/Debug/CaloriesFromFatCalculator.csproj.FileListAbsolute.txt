@@ -1,0 +1,10 @@
+C:\Users\jnarv\source\repos\CaloriesFromFatCalculator\CaloriesFromFatCalculator\bin\Debug\CaloriesFromFatCalculator.exe.config
+C:\Users\jnarv\source\repos\CaloriesFromFatCalculator\CaloriesFromFatCalculator\bin\Debug\CaloriesFromFatCalculator.exe
+C:\Users\jnarv\source\repos\CaloriesFromFatCalculator\CaloriesFromFatCalculator\bin\Debug\CaloriesFromFatCalculator.pdb
+C:\Users\jnarv\source\repos\CaloriesFromFatCalculator\CaloriesFromFatCalculator\obj\Debug\CaloriesFromFatCalculator.csproj.AssemblyReference.cache
+C:\Users\jnarv\source\repos\CaloriesFromFatCalculator\CaloriesFromFatCalculator\obj\Debug\CaloriesFromFatCalculator.Form1.resources
+C:\Users\jnarv\source\repos\CaloriesFromFatCalculator\CaloriesFromFatCalculator\obj\Debug\CaloriesFromFatCalculator.Properties.Resources.resources
+C:\Users\jnarv\source\repos\CaloriesFromFatCalculator\CaloriesFromFatCalculator\obj\Debug\CaloriesFromFatCalculator.csproj.GenerateResource.cache
+C:\Users\jnarv\source\repos\CaloriesFromFatCalculator\CaloriesFromFatCalculator\obj\Debug\CaloriesFromFatCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jnarv\source\repos\CaloriesFromFatCalculator\CaloriesFromFatCalculator\obj\Debug\CaloriesFromFatCalculator.exe
+C:\Users\jnarv\source\repos\CaloriesFromFatCalculator\CaloriesFromFatCalculator\obj\Debug\CaloriesFromFatCalculator.pdb
